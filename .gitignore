@@ -1,0 +1,16 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Note: Keep .kiro folder for submission requirement
+# Do NOT add .kiro/ to .gitignore
